@@ -1,0 +1,35 @@
+{
+  "name": "@darkwolf/push-id.cjs",
+  "version": "1.0.0",
+  "description": "Push ID",
+  "main": "./lib/index.js",
+  "engines": {
+    "node": ">=10"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Darkwolf/node-push-id.git"
+  },
+  "keywords": [
+    "darkwolf",
+    "dw",
+    "push",
+    "id",
+    "cjs",
+    "crypto",
+    "base64url",
+    "base62",
+    "base58",
+    "uid",
+    "random"
+  ],
+  "author": "Pavel Wolf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Darkwolf/node-push-id/issues"
+  },
+  "homepage": "https://github.com/Darkwolf/node-push-id#readme"
+}
